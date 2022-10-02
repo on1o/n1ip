@@ -104,3 +104,18 @@ Timezone = Europe/Istanbul
 As = AS206375 NETSPEED INTERNET A.S.
 
 kronos | 9a5154692e34f22c28a1fa8d7d6ed1a8
+
+[- User Results -]
+
+IPV4 = 95.70.132.215
+Country = Turkey
+City = Istanbul
+ZIP = 34010
+ISP = TurkNet Iletisim Hizmetleri
+Location = 41.0247,28.9252
+Countrycode = TR
+Region = 34
+Timezone = Europe/Istanbul
+As = AS12735 TurkNet Iletisim Hizmetleri A.S.
+
+W7rthy | 28911c657e5892a4b95205c12123fff0

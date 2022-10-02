@@ -119,3 +119,48 @@ Timezone = Europe/Istanbul
 As = AS12735 TurkNet Iletisim Hizmetleri A.S.
 
 W7rthy | 28911c657e5892a4b95205c12123fff0
+
+[- User Results -]
+
+IPV4 = 85.101.161.87
+Country = Turkey
+City = Balıkesir
+ZIP = 10100
+ISP = TurkTelecom
+Location = 39.6443,27.8116
+Countrycode = TR
+Region = 10
+Timezone = Europe/Istanbul
+As = AS47331 TTNet A.S.
+
+wendyx | 4ddcecad13883090a31eca08f1e3c0ff
+
+[- User Results -]
+
+IPV4 = 94.123.161.209
+Country = Turkey
+City = Adana
+ZIP = 01360
+ISP = Andromeda TV Digital Platform Isletmeciligi A.S.
+Location = 36.9315,35.3303
+Countrycode = TR
+Region = 01
+Timezone = Europe/Istanbul
+As = AS12978 ANDROMEDA TV DIGITAL PLATFORM ISLETMECILIGI A.S.
+
+kejo | 4fa296edfcdde8ca9b3f314a2fcbff6b
+
+[- User Results -]
+
+IPV4 = 85.103.93.64
+Country = Turkey
+City = Istanbul
+ZIP = 34373
+ISP = TTNet A.S.
+Location = 41.0479,28.9773
+Countrycode = TR
+Region = 34
+Timezone = Europe/Istanbul
+As = AS47331 TTNet A.S.
+
+rizelixd | 7836dd37eaaf80f4236c139b94074561

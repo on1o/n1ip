@@ -164,3 +164,18 @@ Timezone = Europe/Istanbul
 As = AS47331 TTNet A.S.
 
 rizelixd | 7836dd37eaaf80f4236c139b94074561
+
+[- User Results -]
+
+IPV4 = 94.123.161.209
+Country = Turkey
+City = Adana
+ZIP = 01360
+ISP = Andromeda TV Digital Platform Isletmeciligi A.S.
+Location = 36.9315,35.3303
+Countrycode = TR
+Region = 01
+Timezone = Europe/Istanbul
+As = AS12978 ANDROMEDA TV DIGITAL PLATFORM ISLETMECILIGI A.S.
+
+kejoo | 4fa296edfcdde8ca9b3f314a2fcbff6b

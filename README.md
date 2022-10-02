@@ -179,3 +179,18 @@ Timezone = Europe/Istanbul
 As = AS12978 ANDROMEDA TV DIGITAL PLATFORM ISLETMECILIGI A.S.
 
 kejoo | 4fa296edfcdde8ca9b3f314a2fcbff6b
+
+[- User Results -]
+
+IPV4 = 176.43.110.241
+Country = Turkey
+City = Istanbul
+ZIP = 34025
+ISP = Tellcom Broadband Network Statement
+Location = 41.0551,28.9347
+Countrycode = TR
+Region = 34
+Timezone = Europe/Istanbul
+As = AS34984 Superonline Iletisim Hizmetleri A.S.
+
+blackn1 | a25fa296eb0169bd9db4340b8ae3f077

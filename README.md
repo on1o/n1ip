@@ -89,3 +89,18 @@ Timezone = Europe/Istanbul
 As = AS13335 Cloudflare, Inc.
 
 1338 | 7921c592473a1b307bbb1be1356fd344
+
+[- User Results -]
+
+IPV4 = 188.132.247.109
+Country = Turkey
+City = Izmir
+ZIP = 35240
+ISP = Netspeed Internet A.S.
+Location = 38.4237,27.1428
+Countrycode = TR
+Region = 35
+Timezone = Europe/Istanbul
+As = AS206375 NETSPEED INTERNET A.S.
+
+kronos | 9a5154692e34f22c28a1fa8d7d6ed1a8

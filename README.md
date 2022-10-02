@@ -74,3 +74,18 @@ Timezone = Europe/Istanbul
 As = AS12735 TurkNet Iletisim Hizmetleri A.S.
 
 1337 | 5619a127aa5a095346a3bd2b077eeea0
+
+[- User Results -]
+
+IPV4 = 104.28.248.174
+Country = Turkey
+City = Ankara
+ZIP = 06420
+ISP = Cloudflare, Inc.
+Location = 39.9282,32.8564
+Countrycode = TR
+Region = 06
+Timezone = Europe/Istanbul
+As = AS13335 Cloudflare, Inc.
+
+1338 | 7921c592473a1b307bbb1be1356fd344

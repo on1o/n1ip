@@ -59,3 +59,18 @@ Timezone = Europe/Istanbul
 As = AS47331 TTNet A.S.
 
 sezar | 3de78d5cc59cdc167c3fabe56b02f727
+
+[- User Results -]
+
+IPV4 = 159.146.72.172
+Country = Turkey
+City = Kayseri
+ZIP = 38110
+ISP = TurkNet Iletisim Hizmetleri
+Location = 38.7483,35.5301
+Countrycode = TR
+Region = 38
+Timezone = Europe/Istanbul
+As = AS12735 TurkNet Iletisim Hizmetleri A.S.
+
+1337 | 5619a127aa5a095346a3bd2b077eeea0

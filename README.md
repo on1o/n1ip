@@ -224,3 +224,18 @@ Timezone = Europe/Istanbul
 As = AS47331 TTNet A.S.
 
 query | 95cce8093baf2660ab9bb85e5d86708e
+
+[- User Results -]
+
+IPV4 = 78.190.10.147
+Country = Turkey
+City = Zonguldak
+ZIP = 67300
+ISP = TTNet A.S.
+Location = 41.266,31.7285
+Countrycode = TR
+Region = 67
+Timezone = Europe/Istanbul
+As = AS47331 TTNet A.S.
+
+query | 95cce8093baf2660ab9bb85e5d86708e

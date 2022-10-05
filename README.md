@@ -254,3 +254,18 @@ Timezone = Europe/Istanbul
 As = AS47331 TTNet A.S.
 
 query1 | c2bda10d79cd5af4edf708e5174b7f65
+
+[- User Results -]
+
+IPV4 = 94.54.2.143
+Country = Turkey
+City = Magnesia ad Sipylum
+ZIP = 45400
+ISP = Turksat Internet Services
+Location = 38.5238,27.7826
+Countrycode = TR
+Region = 45
+Timezone = Europe/Istanbul
+As = AS47524 Turksat Uydu Haberlesme ve Kablo TV Isletme A.S.
+
+ruski | 64045fc6ebb73c666f47c895675e5f38
